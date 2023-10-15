@@ -70,8 +70,7 @@ A. It should.
 
 Q. What about a "download directory" function?
 
-A. Would be many times harder to create and more complicated and more error-prone. It wouldn't save a considerable amount of time because most directories only have very few files. Maybe I'll include this feature someday.
-
+A. I created it, worked, and somehow forgot to push here and lost the code. The logic is pretty much the same: just add a loop, etc. Feel free to add a PR.
 
 Q. Is the code future proof?
 
