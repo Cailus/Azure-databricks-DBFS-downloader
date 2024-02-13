@@ -1,7 +1,7 @@
 # Azure-databricks-DBFS-downloader
 Download DBFS data quickly on adb envs
 
-# NOT UPDATED IN A YEAR
+# SEVERY OUTDATED
 
 # @Description
 Much faster way to download Data files from adb envs: you just click a 'download button'
